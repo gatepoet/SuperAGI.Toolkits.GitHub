@@ -1,2 +1,2 @@
-# GreetingTool
-SuperAGI Greeting Tool -  A sample tool to help create new external tools.
+# SuerAGI.Toolkits.GitHub
+SuperAGI GitHub Toolkit -  A powerful GitHub toolkit for advanced interaction with GitHub.
